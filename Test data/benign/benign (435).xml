@@ -1,0 +1,26 @@
+<annotation>
+	<folder>benign</folder>
+	<filename>benign (435).png</filename>
+	<path>/Users/abhinav/Desktop/Test data/benign/benign (435).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>552</width>
+		<height>469</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>68</ymin>
+			<xmax>275</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

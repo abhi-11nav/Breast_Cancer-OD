@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Malignant</folder>
+	<filename>malignant (204).png</filename>
+	<path>/Users/abhinav/Desktop/Test data/Malignant/malignant (204).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>875</width>
+		<height>585</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malignant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>43</ymin>
+			<xmax>648</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>
