@@ -1,0 +1,26 @@
+<annotation>
+	<folder>benign</folder>
+	<filename>benign (283).png</filename>
+	<path>/Users/abhinav/Desktop/Breast Cancer classification/Data/benign/benign (283).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>621</width>
+		<height>508</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>184</ymin>
+			<xmax>235</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

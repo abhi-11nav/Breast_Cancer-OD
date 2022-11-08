@@ -1,0 +1,26 @@
+<annotation>
+	<folder>malignant</folder>
+	<filename>malignant (185).png</filename>
+	<path>/Users/abhinav/Desktop/Breast Cancer classification/Data/malignant/malignant (185).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>694</width>
+		<height>582</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malignant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>77</ymin>
+			<xmax>471</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
